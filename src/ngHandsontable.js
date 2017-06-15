@@ -6,5 +6,9 @@ angular.module('ngHandsontable', [
   ]);
 
 Handsontable.hooks.add('afterContextMenuShow', function() {
+  if(!Handsontable.eventManager)
+  {
+    Handsontable.eventManager = {};
+  }
   Handsontable.eventManager.isHotTableEnv = false;
 });

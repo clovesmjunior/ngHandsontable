@@ -1,10 +1,10 @@
 {
   "name": "ngHandsontable",
   "dependencies": {
-    "angular": "~1.5.0",
-    "handsontable": "~0.28.4"
+    "angular": "~1.5.11",
+    "handsontable": "~0.32.0"
   },
-  "homepage": "https://github.com/handsontable/ngHandsontable",
+  "homepage": "https://github.com/clovesmjunior/ngHandsontable",
   "authors": [
     "Handsoncode",
     "Handsoncode <hello@handsontable.com>"

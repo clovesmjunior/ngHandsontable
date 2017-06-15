@@ -1,22 +1,22 @@
 {
   "name": "ng-handsontable",
   "description": "AngularJS directive for Handsontable",
-  "homepage": "https://github.com/handsontable/ngHandsontable",
+  "homepage": "https://github.com/clovesmjunior/ngHandsontable",
   "repository": {
     "type": "git",
-    "url": "https://github.com/handsontable/ngHandsontable.git"
+    "url": "https://github.com/clovesmjunior/ngHandsontable.git"
   },
   "bugs": {
-    "url": "https://github.com/handsontable/ngHandsontable/issues"
+    "url": "https://github.com/clovesmjunior/ngHandsontable/issues"
   },
   "author": "Handsoncode <hello@handsontable.com>",
   "version": "0.13.0",
   "dependencies": {
     "angular": "^1.5.0",
-    "handsontable": "^0.28.0"
+    "handsontable": "^0.32.0"
   },
   "devDependencies": {
-    "angular": "^1.5.0",
+    "angular": "^1.5.11",
     "angular-mocks": "^1.5.0",
     "angular-ui-router": "^0.2.15",
     "browserify-replace": "^0.9.0",
