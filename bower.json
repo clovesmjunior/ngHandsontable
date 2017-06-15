@@ -1,5 +1,6 @@
 {
   "name": "ngHandsontable",
+  "version": "0.13.1",
   "dependencies": {
     "angular": "~1.5.11",
     "handsontable": "~0.32.0"
